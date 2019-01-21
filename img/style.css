@@ -1,0 +1,27 @@
+.container {
+  border: 3px solid;
+  display: flex;
+  background-color: rgba(16, 106, 136, 0.925);
+  padding: 20px;
+  justify-content: space-evenly;
+  font-size: 30px;
+}
+img {
+  height: 570px;
+  width: 550px;
+}
+div.box {
+  width: 400px;
+  height: 200px;
+  font-size: 20px;
+  position: absolute;
+}
+p {
+  color: beige;
+}
+body {
+  background-color: rgb(12, 52, 70);
+}
+.welcome {
+  color: blueviolet;
+}
